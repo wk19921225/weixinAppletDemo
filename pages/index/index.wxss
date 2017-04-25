@@ -1,0 +1,35 @@
+page{
+    background-color: #b8d2e1;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.user-photo{
+    width: 125rpx;
+    height: 125rpx;
+    margin-top: 200rpx;
+    border-radius: 50%;
+
+}
+text{
+    font-weight: bold;
+}
+.user-text{
+    margin-top: 140rpx;
+}
+.hello{
+    color: red;
+}
+.btn{
+    margin-top: 200rpx;
+    border: 1px solid #bbb;
+    width: 200rpx;
+    height: 80rpx;
+    line-height: 80rpx;
+    text-align: center;
+    border-radius: 5px;
+    
+}

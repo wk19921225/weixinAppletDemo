@@ -1,0 +1,70 @@
+
+swiper{
+    width:100%;
+    height:600rpx;
+}
+image{
+    width:100%;
+    height: 600rpx
+}
+.artical{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20rpx;
+    margin-bottom: 40rpx;
+    background-color: white;
+    border-bottom: 1px solid #ededed;
+    border-top: 1px solid #ededed;
+    padding-bottom: 5px;
+}
+.userArea{
+   margin: 10rpx 0 20rpx 10rpx;
+
+}
+.userPhoto{
+    width: 60rpx;
+    height: 60rpx;
+    vertical-align: middle;
+   
+}
+.userDate{
+    vertical-align: middle;
+    margin-left: 20px;
+    margin-bottom: 5rpx;
+     font-size: 26rpx;
+}
+.userTitle{
+    font-size: 36rpx;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.articalPhoto{
+    width: 100%;
+    height: 340rpx;
+    margin-bottom: 15px;
+}
+.articalBre{
+    color: #666;
+    font-size: 26rpx;
+    margin-bottom: 20rpx;
+    margin-left: 20rpx;
+    letter-spacing: 2rpx;
+    line-height: 40rpx;
+}
+.foot{
+    font-size: 13px;
+    flex-direction: row;
+    line-height: 16px;
+    margin-left: 10px;
+}
+.footImg{
+    height: 16px;
+    width: 16px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+.footNum{
+    vertical-align: middle;
+    margin-right: 20px;
+}

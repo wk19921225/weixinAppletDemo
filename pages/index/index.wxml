@@ -1,0 +1,7 @@
+<view class="container">
+    <image class="user-photo" src="../images/132-1.jpg"></image>
+    <text class="user-text"><text class="hello">hello</text> , world</text>
+    <view class="btn">
+        同意注册
+    </view>
+</view>

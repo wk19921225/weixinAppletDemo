@@ -1,0 +1,77 @@
+<view class="container">
+    <swiper indicator-dots="true" indicator-color="rgba(0,0,0,0.3)" indicator-active-color="#fff" autoplay="true" circular="true">
+            <swiper-item>
+                 <image src="/images/wx.png" ></image>
+            </swiper-item>
+        <swiper-item>
+            <image src="/images/vr.png" ></image>
+        </swiper-item>
+        <swiper-item>
+            <image src="/images/iqiyi.png" ></image>
+        </swiper-item>
+    </swiper>
+
+    <view class="artical">
+        <view class="userArea">
+            <image class="userPhoto" src="/images/avatar/1.png"></image> 
+            <text class="userDate">{{date}}</text>        
+        </view>
+        <text class="userTitle">{{title}}</text>
+       <image class="articalPhoto" src="/images/post/bl.png"></image>
+       <text class="articalBre">开发者工具安装完成后，打开并使用微信扫码登录。选择创建“项目”，填入上文获取到的 AppID ，设置一个本地项目的名称（非小程序名称），比如“我的第一个项目”，并选择一个本地的文件夹作为代码存储的目录，点击“新建项目”就可以了。 </text>
+       <view class="foot">
+       <image class="footImg" src="/images/icon/chat.png"></image>
+       <text class="footNum">92</text>
+       <image class="footImg" src="/images/icon/view.png"></image>
+       <text class="footNum">65</text>
+       </view>
+    </view>
+
+      <view class="artical">
+        <view class="userArea">
+            <image class="userPhoto" src="/images/avatar/2.png"></image> 
+            <text class="userDate">Mon 16 2017</text>        
+        </view>
+        <text class="userTitle">我的第一个小程序</text>
+       <image class="articalPhoto" src="/images/post/cat.png"></image>
+       <text class="articalBre">开发者工具安装完成后，打开并使用微信扫码登录。选择创建“项目”，填入上文获取到的 AppID ，设置一个本地项目的名称（非小程序名称），比如“我的第一个项目”，并选择一个本地的文件夹作为代码存储的目录，点击“新建项目”就可以了。 </text>
+       <view class="foot">
+       <image class="footImg" src="/images/icon/chat.png"></image>
+       <text class="footNum">92</text>
+       <image class="footImg" src="/images/icon/view.png"></image>
+       <text class="footNum">65</text>
+       </view>
+    </view>
+
+      <view class="artical">
+        <view class="userArea">
+            <image class="userPhoto" src="/images/avatar/3.png"></image> 
+            <text class="userDate">Mon 16 2017</text>        
+        </view>
+        <text class="userTitle">我的第一个小程序</text>
+       <image class="articalPhoto" src="/images/post/crab.png"></image>
+       <text class="articalBre">开发者工具安装完成后，打开并使用微信扫码登录。选择创建“项目”，填入上文获取到的 AppID ，设置一个本地项目的名称（非小程序名称），比如“我的第一个项目”，并选择一个本地的文件夹作为代码存储的目录，点击“新建项目”就可以了。 </text>
+       <view class="foot">
+       <image class="footImg" src="/images/icon/chat.png"></image>
+       <text class="footNum">92</text>
+       <image class="footImg" src="/images/icon/view.png"></image>
+       <text class="footNum">65</text>
+       </view>
+    </view>
+
+      <view class="artical">
+        <view class="userArea">
+            <image class="userPhoto" src="/images/avatar/4.png"></image> 
+            <text class="userDate">Mon 16 2017</text>        
+        </view>
+        <text class="userTitle">我的第一个小程序</text>
+       <image class="articalPhoto" src="/images/post/vr.png"></image>
+       <text class="articalBre">开发者工具安装完成后，打开并使用微信扫码登录。选择创建“项目”，填入上文获取到的 AppID ，设置一个本地项目的名称（非小程序名称），比如“我的第一个项目”，并选择一个本地的文件夹作为代码存储的目录，点击“新建项目”就可以了。 </text>
+       <view class="foot">
+       <image class="footImg" src="/images/icon/chat.png"></image>
+       <text class="footNum">92</text>
+       <image class="footImg" src="/images/icon/view.png"></image>
+       <text class="footNum">65</text>
+       </view>
+    </view>
+</view>
